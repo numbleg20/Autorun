@@ -1,0 +1,7 @@
+D:\C# projects\Autorun\Autorun\bin\Debug\Autorun.exe.config
+D:\C# projects\Autorun\Autorun\bin\Debug\Autorun.exe
+D:\C# projects\Autorun\Autorun\bin\Debug\Autorun.pdb
+D:\C# projects\Autorun\Autorun\obj\Debug\Autorun.csproj.AssemblyReference.cache
+D:\C# projects\Autorun\Autorun\obj\Debug\Autorun.csproj.CoreCompileInputs.cache
+D:\C# projects\Autorun\Autorun\obj\Debug\Autorun.exe
+D:\C# projects\Autorun\Autorun\obj\Debug\Autorun.pdb
